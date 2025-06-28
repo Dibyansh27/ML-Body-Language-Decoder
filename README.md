@@ -21,3 +21,9 @@ DIBYANSH GARG → dibyansh27
 dibyanshgarg2710@gmail.com 
 
 This README will make your repository look professional and attract contributors, employers, and users. The structure follows best practices for open-source projects and clearly communicates the project's value and technical sophistication.
+![Screenshot 2025-06-28 221907](https://github.com/user-attachments/assets/df1973a6-fe1f-40f1-aaf6-d3475
+
+https://github.com/user-attachments/assets/ad0d3913-e6bf-4392-88fe-ebdc8c486a05
+
+7da9e95)
+![Screenshot 2025-06-28 221327](https://github.com/user-attachments/assets/c7765d47-025f-4485-ba24-2539c0a304b8)
