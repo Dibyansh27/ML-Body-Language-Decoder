@@ -17,12 +17,7 @@ Technical Depth: Shows serious engineering considerations
 Community Focus: Encourages contributions and provides support channels
 Comprehensive: Covers everything from basic usage to advanced implementation
 
-📝 Customization Notes:
-Replace these placeholders with your actual information:
-
-yourusername → Your GitHub username
-your.email@domain.com → Your contact email
-Social media links → Your actual profiles
-[Your Name] → Your actual name
+DIBYANSH GARG → dibyansh27
+dibyanshgarg2710@gmail.com 
 
 This README will make your repository look professional and attract contributors, employers, and users. The structure follows best practices for open-source projects and clearly communicates the project's value and technical sophistication.
